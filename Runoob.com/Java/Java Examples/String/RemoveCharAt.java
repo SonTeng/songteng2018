@@ -9,4 +9,10 @@ public class RemoveCharAt {
     public static String removeCharAt(String str,int pos){
         return str.substring(0,pos)+str.substring(pos+1);
     }
-}
+}  
+
+
+----------
+Output:  
+thi is java
+
