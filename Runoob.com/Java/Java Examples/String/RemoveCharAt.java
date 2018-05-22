@@ -1,5 +1,4 @@
 /** 使用字符串函数substring()函数来删除字符串中的一个字符，并将功能封装在removeChatAt函数中 */
-package Examples.String;
 
 public class RemoveCharAt {
     public static void main(String[] args){
