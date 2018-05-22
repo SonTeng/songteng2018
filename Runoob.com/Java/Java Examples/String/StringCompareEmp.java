@@ -11,4 +11,12 @@ public class StringCompareEmp{
       System.out.println( str.compareToIgnoreCase(anotherString) );  //忽略大小写
       System.out.println( str.compareTo(objStr.toString()));
    }
-}
+}  
+  
+----------  
+Output:  
+-32
+0
+0
+
+
