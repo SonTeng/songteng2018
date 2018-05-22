@@ -14,3 +14,6 @@ public class SearchlastString {
 
     }
 }
+---------
+    Output:
+Runoob字符串最后出现的位置索引为：18
