@@ -1,7 +1,6 @@
 /** 字符串函数strOrig.lastIndexOf(Stringname)来查找字符串Stringname 在 strOrig中出现的位置 */
 
 
-package Examples.String;
 
 public class SearchlastString {
     public static void main(String[] args){
