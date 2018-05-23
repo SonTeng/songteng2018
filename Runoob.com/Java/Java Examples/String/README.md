@@ -1,5 +1,5 @@
 # Java字符串 实例练习  
-1. [字符串比较](https://github.com/SonTeng/songteng2018/blob/master/Runoob.com/Java/Java%20Examples/String/StringCompareEmp.java)  
+1.[字符串比较](https://github.com/SonTeng/songteng2018/blob/master/Runoob.com/Java/Java%20Examples/String/StringCompareEmp.java)  
 2.[查找字符串最后一次出现的位置](https://github.com/SonTeng/songteng2018/blob/master/Runoob.com/Java/Java%20Examples/String/SearchlastString.java)  
 3.[删除字符串中的一个字符](https://github.com/SonTeng/songteng2018/blob/master/Runoob.com/Java/Java%20Examples/String/RemoveCharAt.java)  
 4.[字符串替换](https://github.com/SonTeng/songteng2018/blob/master/Runoob.com/Java/Java%20Examples/String/StringReplaceEmp.java)  
