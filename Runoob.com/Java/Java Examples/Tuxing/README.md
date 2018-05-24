@@ -1,0 +1,5 @@
+1.[打印菱形](https://github.com/SonTeng/songteng2018/blob/master/Runoob.com/Java/Java%20Examples/Tuxing/Diamond.java)  
+2.[九九乘法表](https://github.com/SonTeng/songteng2018/blob/master/Runoob.com/Java/Java%20Examples/Tuxing/MultiplicationTable.java)  
+3.[打印倒立的三角形](https://github.com/SonTeng/songteng2018/blob/master/Runoob.com/Java/Java%20Examples/Tuxing/InvertedTriangle.java)  
+4.[打印平行四边形](https://github.com/SonTeng/songteng2018/blob/master/Runoob.com/Java/Java%20Examples/Tuxing/Parallelogram.java)  
+5.[打印矩形](https://github.com/SonTeng/songteng2018/blob/master/Runoob.com/Java/Java%20Examples/Tuxing/Rect.java)  
