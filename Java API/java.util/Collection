@@ -1,0 +1,8 @@
+接口 Collection<E>   
+    
+   
+1.boolean add(E e)  
+确保此 collection 包含指定的元素（可选操作）。  
+2.boolean addAll(Collection <? extends E> c)  
+将指定 collection 中的所有元素都添加到此 collection 中（可选操作）。  
+
